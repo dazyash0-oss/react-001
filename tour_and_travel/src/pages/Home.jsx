@@ -1,13 +1,12 @@
 import React from 'react'
 import Hero from '../Components/Hero'
 
-
-const Home = () => {
+function Home() {
   return (
-   <>
-   <Hero/>
-   </>
-   
+    <>
+    <Hero />
+
+    </>
   )
 }
 
